@@ -1,0 +1,129 @@
+Instructions for students
+You must complete ALL activities within the assessment.
+Your centre will schedule 20 supervised hours during the three-week window in 
+which you will produce the outcomes for this task.
+You are:
+• only permitted to produce evidence of your proposal and design documentation 
+during the scheduled supervised sessions
+• not permitted to have access to your proposal and design documentation outside 
+the supervised assessment sessions.
+Outside the supervised assessment sessions you are permitted to:
+• carry out research
+• produce notes containing the facts and figures related to your research.
+Any notes you wish to take into the supervised sessions must be submitted as part of 
+the assessment so they can be checked by your tutor; your tutor will confirm that the 
+notes contain only facts and figures related to the research carried out.
+Notes that you are permitted to take into the scheduled supervised sessions must:
+• not contain attempts to interpret, analyse or evaluate the research in the context of 
+the scenario
+• not contain any other content that has not been specified in these instructions
+• be submitted as an appendix to the task and retained by your centre until after the 
+end of the post-results service period.
+You are allowed monitored access to the internet during the scheduled 
+supervised sessions.
+Your work will be kept securely during any breaks and between scheduled sessions.
+You are not permitted to take anything into or out of the supervised assessment 
+sessions without the approval of your tutor/invigilator.
+Templates provided for use during this task:
+• Task1_Test_Strategy_Template.doc 
+Your work must:
+• be completed independently
+• identify any work that is not your own through the use of appropriate citations
+• be authenticated by your tutor before being submitted to Pearson.
+Your tutor is not permitted to provide guidance or feedback during this task.
+3
+Continue 
+W84307A
+Set Task Brief
+You work for a software development company. The company has secured a contract 
+to develop a solution for a local green technology company, Rolsa Technologies. Rolsa 
+Technologies specialises in:
+• solar panel installation and maintenance
+• electric vehicle (EV) charging stations
+• smart home energy management systems.
+The clients (owners of Rolsa Technologies) would like to develop a digital solution 
+that will:
+• provide customers with information about:
+– green energy products currently on the market
+– how to reduce their carbon footprint
+• allow customers to:
+– schedule consultations and installations
+– calculate their carbon footprint.
+The client has conducted market research with existing customers to identify features 
+that could be included in the digital solution. The suggested features by the client are:
+• account registration to allow customers to manage their consultations and data
+• accessibility features to support a wide range of users
+• a tool for calculating and tracking energy usage.
+4
+Continue 
+W84307A
+Activities
+Activity A(i)
+You have been asked to carry out research to prepare for developing a proposal for the 
+digital solution. Your research should consider how digital solutions are used to meet 
+the needs of different users within the energy sector, including:
+• how hardware and software are used within the context of the industry
+• newly emerging technologies
+• how digital solutions could be used to meet different user needs
+• the industry-specific guidelines and regulations you will need to follow.
+Any notes you produce should be kept and submitted as an appendix.
+Activity A(ii)
+Produce a detailed proposal for a digital solution that you would develop to meet the 
+needs of:
+• the client (Rolsa Technologies) 
+• existing and potential users.
+Your proposal should provide a rationale for the solution you are proposing and include:
+• the business context
+• the functional and non-functional requirements of the solution
+• decomposition of the problems that will need to be solved to implement the 
+functional and non-functional requirements
+• the key performance indicators (KPIs) and user acceptance criteria for the 
+proposed solution
+• a description of the proposed solution
+• justification of:
+– how the recommended solution meets the needs of the client and users
+– how potential risks will be mitigated
+– how relevant regulatory guidelines and legal requirements, in relation to 
+software development and the energy sector, will be addressed.
+(24)
+5
+Continue 
+W84307A
+Activity B
+Produce a set of design documents for the digital solution you are proposing. The 
+design documentation must include:
+• visual/interface designs
+• data requirements
+• a selection of algorithm designs
+• a test strategy.
+Your proposed solution must be of sufficient scope and complexity to demonstrate your 
+ability to implement code in at least two appropriate languages to implement front-end 
+and back-end processes.
+Your design documents should provide sufficient detail to:
+• effectively communicate the intended solution to both technical and 
+non-technical stakeholders
+• allow the client to make informed decisions
+• allow a third-party developer to use the design documents to create the 
+proposed solution.
+Your test strategy does not need to detail specific tests for every part of the solution. 
+However, it should provide a selection of tests, relevant to your proposed solution, 
+that show:
+• the order in which you intend to test all components of the solution
+• the types of test to be carried out for each component.
+Your algorithm designs do not need to show the whole solution but should show how 
+you would solve a number of different key problems. You should limit your algorithm 
+designs to a maximum of five complex problems.
+(34)
+W84307A 6
+Outcomes for submission
+You must submit:
+1. A proposal for the designed solution, including appendices of relevant research 
+notes to support your rationale.
+Save your proposal as a PDF file in your folder for submission. Use this 
+naming convention:
+– Task1_Proposal_[Registration number]_[Surname]_[First letter of first name]
+2. A set of design documents.
+Save your completed design documents as PDF files in your folder for submission. 
+Use this naming convention:
+– Task1_DesignDocs_[Document name]_[Registration number]_[Surname]_
+[First letter of first name]
